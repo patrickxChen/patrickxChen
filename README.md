@@ -9,3 +9,5 @@
 - Problem-solving & algorithms
 
 Always learning and open to collaboration!
+
+Currently developing: Calgary Transit Delay Predictor
