@@ -1,7 +1,7 @@
 # Hi, I'm Patrick Chen 👋
 **Software Engineering Student @ University of Waterloo ('30)**
 
-💻 I enjoy building web apps, exploring AI, and contributing to open-source projects.  
+💻 I enjoy building web apps, exploring AI, and contributing to projects.  
 
 ### Skills
 - Python, JavaScript, C++, C, C#
