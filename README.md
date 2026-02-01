@@ -4,12 +4,8 @@
 💻 I enjoy building web apps, exploring AI, and contributing to open-source projects.  
 
 ### Skills
-- Python, JavaScript, C++
-- Web Development (React, Node.js)
+- Python, JavaScript, C++, C, C#
+- Web Development (React, Node.js, Django)
 - Problem-solving & algorithms
-
-### Projects
-- [Portfolio Website](https://your-portfolio-link)
-- [Cool Open-Source Project](https://github.com/project-link)
 
 Always learning and open to collaboration!
