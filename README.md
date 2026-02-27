@@ -1,6 +1,8 @@
 # Hi, I'm Patrick Chen 👋
 **Software Engineering Student @ University of Waterloo ('30)**
 
+![Profile Views](https://komarev.com/ghpvc/?username=patrickxChen)
+
 💻 I enjoy building web apps, exploring AI, and contributing to projects. Check out my website: https://patrickchenwebsite.vercel.app/
 ### Skills
 - Python, JavaScript, C++, C, C#
