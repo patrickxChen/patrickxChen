@@ -7,7 +7,7 @@
 ### Skills
 - Python, JavaScript, C++, C, C#
 - Web Development (React, Node.js, Django)
-- Problem-solving & algorithms
+- Problem-solving & algorithms (Competitive programming, DMOJ: https://dmoj.ca/user/b_nary)
 
 Always learning and open to collaboration!
 
