@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patrickxChen)
 
-💻 I enjoy building web apps, exploring AI, and contributing to projects. Check out my website: https://patrickchenwebsite.vercel.app/
+💻 I enjoy building web apps, exploring AI, and contributing to projects. Check out my website: https://www.patrickxchen.me/
 ### Skills
 - Python, JavaScript, C++, C, C#
 - Web Development (React, Node.js, Django)
