@@ -11,6 +11,5 @@
 
 Always learning and open to collaboration!
 
-Currently developing: 
-- Calgary Transit Delay Predictor (on hold currently)
-- VsWrite
+Latest Projects:
+- rupture
